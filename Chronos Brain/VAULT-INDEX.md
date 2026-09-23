@@ -17,7 +17,7 @@ This vault lives at `C:\Users\spencer\Chronos Brain`. If you use Claude Desktop,
 
 ## Who I Am
 
-I'm Spencer. I finished my degree this spring and I'm starting my career in finance — an analyst role at an investment firm in Chicago is the target, but any large city works. I invest on the side, and I'm building small businesses that earn alongside the day job.
+I'm Spencer. I finished my degree this spring and I'm starting my career in Business — an analyst/entry level role in NYC is my target, but any large city works. I invest on the side, and I'm building small businesses that earn alongside the day job.
 
 ## Key People
 
