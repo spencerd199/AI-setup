@@ -5,7 +5,7 @@ type: index
 ---
 # Career Search
 
-Landing a first full-time analyst role. Chicago is the target; any large city is acceptable. **Top priority.**
+Landing a first full-time analyst role. NYC is the target; any large city is acceptable. **Top priority.**
 
 ## Folders in this folder
 - **`Target Companies/`** → [[Target Companies]] — one note per firm: why it fits, who I know there, where the application stands.
