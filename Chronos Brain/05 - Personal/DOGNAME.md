@@ -3,7 +3,7 @@ status: active
 project: personal
 type: reference
 ---
-# Max
+# NAME
 
 *Fictional dog.*
 
