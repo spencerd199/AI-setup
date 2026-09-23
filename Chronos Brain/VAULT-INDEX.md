@@ -21,9 +21,9 @@ I'm Spencer. I finished my degree this spring and I'm starting my career in Busi
 
 ## Key People
 
-- **[[Jordan]]** — my mentor, a former manager from my internship
-- **[[Sam]]** — co-owner of the rental property
-- **[[Max]]** — my dog
+- **[[NAME]]** — my mentor, a former manager from my internship
+- **[[NAME]]** — co-owner of the rental property
+- **[[NAME]]** — my dog
 
 ## Career Search (02 - Career Search)
 
