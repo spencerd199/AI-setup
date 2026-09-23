@@ -1,0 +1,12 @@
+# Obsidian workspace state - personal, changes constantly
+.obsidian/
+.trash/
+
+# Secrets never belong in the repo or the vault
+.env
+.env.*
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
