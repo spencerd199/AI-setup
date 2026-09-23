@@ -3,7 +3,7 @@ status: active
 project: personal
 type: reference
 ---
-# Sam
+# NAME
 
 *Fictional person.*
 
